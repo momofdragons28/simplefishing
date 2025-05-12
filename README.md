@@ -36,7 +36,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/<ваш-профиль>/simple-fishing.git
+   git clone https://github.com/momofdragons28/simple-fishing.git
    ```
 2. Перейдите в папку проекта:
    ```bash
